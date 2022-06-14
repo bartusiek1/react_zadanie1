@@ -1,0 +1,34 @@
+.StudentGradeTable {
+    width: 100%;
+    height: 100px;
+    font-size: 0.8em;
+}
+
+.NaglowekTabeli {
+    border: 1px solid black
+}
+
+.NaglowekTabeli div {
+    border: 1px solid black
+}
+
+.NaglowekOdstep {
+    width: 100%;
+    height: 8px;
+}
+
+.TabelaRekordy {
+    border: 1px solid black
+}
+
+.RekordTabeli div {
+    border: 1px solid black;
+}
+
+.RekordTabeli:nth-child(odd) {
+    background-color: red;
+}
+
+.RekordTabeli:nth-child(even) {
+    background-color: green;
+}

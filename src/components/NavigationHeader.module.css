@@ -1,0 +1,39 @@
+.AppHeader {
+    background-color: #a1a1a1;
+    min-height: 100px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.PasekNawigacyjny {
+    background-color: #656565;
+    height: 100%;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    padding: 0 10px 0 10px;
+}
+
+.Lewa {
+    height: 100%;
+    width: 50%;
+}
+
+.TextLewa {
+    text-align: left;
+    vertical-align: middle;
+}
+
+.Prawa {
+    height: 100%;
+    width: 50%;
+}
+
+.TextPrawa {
+    text-align: right;
+    vertical-align: middle;
+
+}

@@ -1,0 +1,9 @@
+.AppBody {
+    background-color: aqua;
+    width: 60%;
+    height: 90vh;                   /*90% view height*/
+    margin: 16px auto 0 auto;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 10px;
+}
